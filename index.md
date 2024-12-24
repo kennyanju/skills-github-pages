@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to Sadiq Adeyanju's Blog
 ---
 
 # Welcome to Sadiq Adeyanju's Blog
